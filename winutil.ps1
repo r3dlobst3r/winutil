@@ -4948,7 +4948,8 @@ $sync.configs.applications = '{
 	},
  	},
 	"WPFInstallkomorebi": {
-		"winget": "LGUG2Z.komorebi"
+		"winget": "LGUG2Z.komorebi",
+		"choco": ""
 	},
 	"WPFInstallkrita": {
 		"winget": "KDE.Krita",
