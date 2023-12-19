@@ -335,6 +335,10 @@
 		"winget": "XBMCFoundation.Kodi",
 		"choco": "kodi"
 	},
+	"WPFInstallkomorebi": {
+		"winget": "LGUG2Z.komorebi",
+		"choco": ""
+	},	
 	"WPFInstallkrita": {
 		"winget": "KDE.Krita",
 		"choco": "krita"
