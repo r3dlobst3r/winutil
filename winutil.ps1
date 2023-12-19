@@ -4247,6 +4247,7 @@ $inputXML = '<Window x:Class="WinUtility.MainWindow"
                                 <CheckBox Name="WPFInstalljdownloader" Content="J Download Manager" Margin="5,0"/>
 								<CheckBox Name="WPFInstallkdeconnect" Content="KDE Connect" Margin="5,0"/>
                                 <CheckBox Name="WPFInstallkeepass" Content="KeePassXC" Margin="5,0"/>
+				<CheckBox Name="WPFInstallkomorebi" Content="Komorebi A Tiling WM" Margin="5,0"/>
                                 <CheckBox Name="WPFInstallmalwarebytes" Content="MalwareBytes" Margin="5,0"/>
                                 <CheckBox Name="WPFInstallmonitorian" Content="Monitorian" Margin="5,0"/>
                                 <CheckBox Name="WPFInstallmsiafterburner" Content="MSI Afterburner" Margin="5,0"/>
@@ -4944,6 +4945,10 @@ $sync.configs.applications = '{
 	"WPFInstallkodi": {
 		"winget": "XBMCFoundation.Kodi",
 		"choco": "kodi"
+	},
+ 	},
+	"WPFInstallkomorebi": {
+		"winget": "LGUG2Z.komorebi"
 	},
 	"WPFInstallkrita": {
 		"winget": "KDE.Krita",
